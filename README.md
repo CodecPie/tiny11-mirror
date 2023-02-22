@@ -10,7 +10,7 @@ This is an EU mirror without annoying registration of Tiny11.  These are updated
 
 Whether you use this project or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on projects like this :)
 
-<a href="https://www.buymeacoffee.com/itdoggo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/codecpie" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ---
 
