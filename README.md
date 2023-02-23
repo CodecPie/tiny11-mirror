@@ -28,3 +28,7 @@ Whether you use this project or just like it, please consider supporting it by b
 
 ## License
 Currently N/A (in Work)
+
+## Last updated
+22.Feb.2023
+— Last scanned for updates: 23.Feb.2023
