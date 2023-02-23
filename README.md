@@ -1,9 +1,138 @@
-Tiny-11 Mirror
+Tiny11 Mirror list
 ============
-This is an EU mirror without annoying registration of Tiny11.  These are updated at least 1x per week. 
+This is a mirror list for Tiny11 the official server is checked at least once a week for aupate.<br>
+I do not take any responsibility for the community mirrors but as soon as I hear about bad servers they will be removed immediately.
 
-#### List of the ISO Files here: https://onlinefileupload.de/share/oQv862Q7
-##### Direkt Downlaod: <br>  - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b1.iso?">Tiny 11 b1</a> 3GB<br> - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2.iso?">Tiny 11 b2</a> 3,6GB<br> - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2(no%20sysreq).iso?">Tiny 11 b2 (no sysreq)</a> 3,6GB
+---
+## Mirror list
+<details open>
+<summary>Original</summary>
+<table>
+  <tr>
+    <th align="center" width="200">Maintainer</th>
+    <th align="center" width="120">Type</th>
+    <th align="center" width="250">Link</th>
+    <th align="center" width="250">Version</th>
+    <th align="center" width="202">Locatio</th>
+  </tr>
+  <tr>
+    <td align="center">Original</td>
+    <td align="center">index</td>
+    <td align="center"><a href="https://archive.org/details/tiny-11_202302">archive.org</a></td>
+    <td align="center"></td>
+    <td align="center">USA</td>
+  </tr>
+</table>
+</details>
+<details open>
+<summary>Offical</summary>
+<table>
+  <tr>
+    <th align="center" width="200">Maintainer</th>
+    <th align="center" width="120">Type</th>
+    <th align="center" width="250">Link</th>
+    <th align="center" width="250">Version</th>
+    <th align="center" width="202">Locatio</th>
+  </tr>
+  <tr>
+    <td align="center">Offical</td>
+    <td align="center">index</td>
+    <td align="center"><a href="https://onlinefileupload.de/share/oQv862Q7">onlinefileupload.de</a></td>
+    <td align="center"></td>
+    <td align="center">Germany</td>
+  </tr>
+  <tr>
+    <td align="center">Offical</td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b1.iso?">onlinefileupload.de</a></td>
+    <td align="center">Tiny 11 b1</td>
+    <td align="center">Germany</td>
+  </tr>
+  <tr>
+    <td align="center">Offical</td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2.iso?">onlinefileupload.de</a></td>
+    <td align="center">Tiny 11 b2</td>
+    <td align="center">Germany</td>
+  </tr>
+  <tr>
+    <td align="center">Offical</td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2(no%20sysreq).iso?">onlinefileupload.de</a></td>
+    <td align="center">Tiny 11 b2 (no sysreq)</td>
+    <td align="center">Germany</td>
+  </tr>
+</table>
+</details>
+<details>
+<summary>Community</summary>
+<table>
+  <tr>
+    <th align="center" width="200">Maintainer</th>
+    <th align="center" width="120">Type</th>
+    <th align="center" width="250">Link</th>
+    <th align="center" width="250">Version</th>
+    <th align="center" width="202">Locatio</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">index</td>
+    <td align="center"><a href="https://morty.dl-de.nixphere.de/tiny11/">morty.dl-de.nixphere.de</a></td>
+    <td align="center"></td>
+    <td align="center">Germany</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">index</td>
+    <td align="center"><a href="https://rick.dl-us.nixphere.de/tiny11/">rick.dl-us.nixphere.de</a></td>
+    <td align="center"></td>
+    <td align="center">USA</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://morty.dl-de.nixphere.de/tiny11/tiny11%20b1.iso">morty.dl-de.nixphere.de</a></td>
+    <td align="center">Tiny 11 b1</td>
+    <td align="center">Germany</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://morty.dl-de.nixphere.de/tiny11/tiny11%20b2.iso">morty.dl-de.nixphere.de</a></td>
+    <td align="center">Tiny 11 b2</td>
+    <td align="center">Germany</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://morty.dl-de.nixphere.de/tiny11/tiny11%20b2(no%20sysreq).iso">morty.dl-de.nixphere.de</a></td>
+    <td align="center">Tiny 11 b2 (no sysreq)</td>
+    <td align="center">Germany</td>
+  </tr>
+  
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://rick.dl-us.nixphere.de/tiny11/tiny11%20b1.iso">rick.dl-us.nixphere.de</a></td>
+    <td align="center">Tiny 11 b1</td>
+    <td align="center">USA</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://rick.dl-us.nixphere.de/tiny11/tiny11%20b2.iso">rick.dl-us.nixphere.de</a></td>
+    <td align="center">Tiny 11 b2</td>
+    <td align="center">USA</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://rick.dl-us.nixphere.de/tiny11/tiny11%20b2(no%20sysreq).iso">rick.dl-us.nixphere.de</a></td>
+    <td align="center">Tiny 11 b2 (no sysreq)</td>
+    <td align="center">USA</td>
+  </tr>
+</table>
+</details>
 
 ---
 ## Buy me a coffee
