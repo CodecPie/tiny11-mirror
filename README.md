@@ -13,7 +13,7 @@ I do not take any responsibility for the community mirrors but as soon as I hear
     <th align="center" width="120">Type</th>
     <th align="center" width="250">Link</th>
     <th align="center" width="250">Version</th>
-    <th align="center" width="202">Locatio</th>
+    <th align="center" width="202">Location</th>
   </tr>
   <tr>
     <td align="center">Original</td>
@@ -32,7 +32,7 @@ I do not take any responsibility for the community mirrors but as soon as I hear
     <th align="center" width="120">Type</th>
     <th align="center" width="250">Link</th>
     <th align="center" width="250">Version</th>
-    <th align="center" width="202">Locatio</th>
+    <th align="center" width="202">Location</th>
   </tr>
   <tr>
     <td align="center">Offical</td>
