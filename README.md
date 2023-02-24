@@ -1,6 +1,6 @@
 Tiny11 Mirror list
 ============
-This is a mirror list for Tiny11 the official server is checked at least once a week for aupate.<br>
+This is a mirror list for Tiny11 the official server is checked at least once a week for an upate.<br>
 I do not take any responsibility for the community mirrors but as soon as I hear about bad servers they will be removed immediately.
 
 ---
