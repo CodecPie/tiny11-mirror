@@ -39,7 +39,7 @@ I do not take any responsibility for the community mirrors but as soon as I hear
     <td align="center">index</td>
     <td align="center"><a href="https://onlinefileupload.de/share/oQv862Q7">onlinefileupload.de</a></td>
     <td align="center"></td>
-    <td align="center">Germany</td>
+    <td align="center">Germany (FRA)</td>
   </tr>
   <tr>
     <td align="center">Offical</td>
@@ -79,14 +79,14 @@ I do not take any responsibility for the community mirrors but as soon as I hear
     <td align="center">index</td>
     <td align="center"><a href="https://morty.dl-de.nixphere.de/tiny11/">morty.dl-de.nixphere.de</a></td>
     <td align="center"></td>
-    <td align="center">Germany</td>
+    <td align="center">Germany (FSN)</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
     <td align="center">index</td>
     <td align="center"><a href="https://rick.dl-us.nixphere.de/tiny11/">rick.dl-us.nixphere.de</a></td>
     <td align="center"></td>
-    <td align="center">USA</td>
+    <td align="center">USA (OR hil)</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
