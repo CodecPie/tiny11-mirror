@@ -19,7 +19,14 @@ I do not take any responsibility for the community mirrors but as soon as I hear
     <td align="center">Original</td>
     <td align="center">index</td>
     <td align="center"><a href="https://archive.org/details/tiny-11_202302">archive.org</a></td>
-    <td align="center"></td>
+    <td align="center">tiny11</td>
+    <td align="center">USA</td>
+  </tr>
+  <tr>
+    <td align="center">Original</td>
+    <td align="center">index</td>
+    <td align="center"><a href="https://archive.org/details/tiny11a64">archive.org</a></td>
+    <td align="center">tiny11 for Arm64</td>
     <td align="center">USA</td>
   </tr>
 </table>
@@ -109,6 +116,13 @@ I do not take any responsibility for the community mirrors but as soon as I hear
     <td align="center">Tiny 11 b2 (no sysreq)</td>
     <td align="center">Germany</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://morty.dl-de.nixphere.de/tiny11/arm64/tiny11%20r1%20arm64.iso">morty.dl-de.nixphere.de</a></td>
+    <td align="center">Tiny 11 b1 (for ARM64)</td>
+    <td align="center">Germany</td>
+  </tr>
   
   <tr>
     <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
@@ -129,6 +143,13 @@ I do not take any responsibility for the community mirrors but as soon as I hear
     <td align="center">Downlaod</td>
     <td align="center"><a href="https://rick.dl-us.nixphere.de/tiny11/tiny11%20b2(no%20sysreq).iso">rick.dl-us.nixphere.de</a></td>
     <td align="center">Tiny 11 b2 (no sysreq)</td>
+    <td align="center">USA</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere">Nixphere</a></td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://rick.dl-us.nixphere.de/tiny11/arm64/tiny11%20r1%20arm64.iso">rick.dl-us.nixphere.de</a></td>
+    <td align="center">Tiny 11 b1 (for ARM64)</td>
     <td align="center">USA</td>
   </tr>
 </table>
@@ -152,6 +173,8 @@ Whether you use this project or just like it, please consider supporting it by b
 - Download one of the ISO Files (b2 no sysreq - use this for old PCs/PCs that normally do not support Win11)
 - Donwload https://rufus.ie/de/ - Enter the ISO, burn it to an USB Stick (16GB)
 - Install Tiny-Windows11 :)
+
+Note: The version "for ARM64" is for devices like Raspberry Pis and other arm based devices. 
 
 ---
 
