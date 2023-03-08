@@ -44,30 +44,37 @@ I do not take any responsibility for the community mirrors but as soon as I hear
   <tr>
     <td align="center">Offical</td>
     <td align="center">index</td>
-    <td align="center"><a href="https://onlinefileupload.de/share/oQv862Q7">onlinefileupload.de</a></td>
+    <td align="center"><a href="https://onlinefileupload.de/share/fZP684-v">onlinefileupload.de</a></td>
     <td align="center"></td>
     <td align="center">Germany (FRA)</td>
   </tr>
   <tr>
     <td align="center">Offical</td>
     <td align="center">Downlaod</td>
-    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b1.iso?">onlinefileupload.de</a></td>
+    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/fZP684-v%2Ftiny11%20b1.iso?">onlinefileupload.de</a></td>
     <td align="center">Tiny 11 b1</td>
     <td align="center">Germany</td>
   </tr>
   <tr>
     <td align="center">Offical</td>
     <td align="center">Downlaod</td>
-    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2.iso?">onlinefileupload.de</a></td>
+    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/fZP684-v%2Ftiny11%20b2.iso?">onlinefileupload.de</a></td>
     <td align="center">Tiny 11 b2</td>
     <td align="center">Germany</td>
   </tr>
   <tr>
     <td align="center">Offical</td>
     <td align="center">Downlaod</td>
-    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2(no%20sysreq).iso?">onlinefileupload.de</a></td>
+    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/fZP684-v%2Ftiny11%20b2(no%20sysreq).iso?">onlinefileupload.de</a></td>
     <td align="center">Tiny 11 b2 (no sysreq)</td>
     <td align="center">Germany</td>
+    <tr>
+    <td align="center">Offical</td>
+    <td align="center">Downlaod</td>
+    <td align="center"><a href="https://onlinefileupload.de/api/public/dl/fZP684-v%2Ftiny11%20r1%20arm64.iso?">onlinefileupload.de</a></td>
+    <td align="center">Tiny 11 b1 (for ARM64)</td>
+     <td align="center">Germany</td>
+  </tr>
   </tr>
 </table>
 </details>
